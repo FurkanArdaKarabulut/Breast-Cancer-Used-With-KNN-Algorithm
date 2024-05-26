@@ -9,7 +9,7 @@ Bu proje K-En Yakın Komşu algoritması kullanılarak meme kanserine erken teş
 - [Katkıda Bulunanlar](#katkıda-bulunanlar)
   
 ## Kurulum
-Bu projeyi kurmak için ./kanservisi.py dosyasını açarak kaynak kodlara ulaşabilir, grafikleri inceleyebilirsiniz.
+Bu projeyi kurmak için [buradan](./kanserverisi.py) dosyasını açarak kaynak kodlara ulaşabilir, grafikleri inceleyebilirsiniz.
 
 ## Kullanım
 Bu projeyi kullanmak için python dosyasını indirip herhangi bir python IDE sini kullanarak açabilirsiniz.
